@@ -1,0 +1,6 @@
+{
+  "name": "日语单词背诵检测",
+  "description": "一款支持智能循环、自定义导入及自动生成多维度学习报告的日语单词背诵检测应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
